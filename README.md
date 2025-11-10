@@ -41,3 +41,15 @@ It’s designed for students, beginners, and anyone who wants to **build a stron
 ---
 
 ## ⚙️ **Folder Structure**
+###├── Chapter_01_Getting_Started/
+###├── Chapter_02_Variables_DataTypes/
+###├── Chapter_03_Introducing_Lists/
+###├── Chapter_04_Working_With_Lists/
+###├── Chapter_05_If_Statements/
+###├── Chapter_06_Dictionaries/
+###├── Chapter_07_UserInput_WhileLoops/
+###├── Chapter_08_Functions/
+###├── Chapter_09_Classes/
+###├── Chapter_10_Files_Exceptions/
+###├── Chapter_11_Testing_Your_Code/
+###└── README.md
