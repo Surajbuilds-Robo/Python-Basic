@@ -1,0 +1,6 @@
+"""Write a loop that never ends, and run it. (To end the loop, press CTRL-C or close the window displaying the output.)
+"""
+i =5
+while i<=10:
+    print(f"{i}")
+    # i+=1
