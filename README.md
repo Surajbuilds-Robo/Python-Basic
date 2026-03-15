@@ -40,6 +40,15 @@ It’s designed for students, beginners, and anyone who wants to **build a stron
 
 ---
 
+## 🔗 **Connect GitHub to Your Ubuntu CLI**
+
+New to Git on Ubuntu? See the step-by-step guide:  
+👉 [GITHUB_CLI_SETUP.md](./GITHUB_CLI_SETUP.md)
+
+It covers Git configuration, SSH & HTTPS authentication, verifying your connection, and troubleshooting common issues.
+
+---
+
 ## ⚙️ **Folder Structure**
 
 ```bash
