@@ -1,0 +1,107 @@
+PYTHON LEARNING SUMMARY (Single File)
+
+1. FUNDAMENTALS
+- Python uses simple, readable syntax (no braces, uses indentation)
+- Variables are dynamically typed
+    x = 10        # int`
+    name = "AI"   # string
+- Basic data types:
+    int, float, str, bool
+    list, tuple, set, dict
+- Input/Output:
+    input(), print()
+
+--------------------------------------------------
+
+2. CONTROL FLOW
+- Conditional statements:
+    if, elif, else
+- Loops:
+    for i in range(5):
+        print(i)
+
+    while condition:
+        pass
+
+- Loop control:
+    break, continue, pass
+
+--------------------------------------------------
+
+3. FUNCTIONS
+- Define using def:
+    def add(a, b):
+        return a + b
+
+- Lambda functions:
+    square = lambda x: x*x
+
+- Modules:
+    import math
+
+--------------------------------------------------
+
+4. DATA STRUCTURES
+- List (mutable):
+    lst = [1, 2, 3]
+    lst.append(4)
+
+- Tuple (immutable):
+    tup = (1, 2, 3)
+
+- Set (unique values):
+    s = {1, 2, 3}
+
+- Dictionary (key-value):
+    d = {"name": "Suraj", "age": 20}
+
+--------------------------------------------------
+
+5. OOP (OBJECT-ORIENTED PROGRAMMING)
+- Class and Object:
+    class Car:
+        def __init__(self, name):
+            self.name = name
+
+- Concepts:
+    Encapsulation
+    Inheritance
+    Polymorphism
+
+--------------------------------------------------
+
+6. LIBRARIES
+- Data: numpy, pandas
+- Visualization: matplotlib, plotly
+- Web: flask, django
+- AI/ML: scikit-learn, tensorflow
+
+--------------------------------------------------
+
+7. APPLICATIONS
+- Web development
+- Data analysis
+- Automation scripts
+- Machine Learning / AI
+
+--------------------------------------------------
+
+8. DEBUGGING & BEST PRACTICES
+- Error types:
+    Syntax Error
+    Runtime Error
+    Logical Error
+
+- Debugging:
+    print(), logging
+
+- Coding standards:
+    Follow PEP 8 (clean, readable code)
+
+--------------------------------------------------
+
+FINAL NOTE:
+Python is used for:
+- Fast development
+- Data-heavy applications
+- AI & Robotics systems
