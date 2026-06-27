@@ -27,3 +27,15 @@ Play around with tests to become familiar with the process of testing your code.
 Write tests for the most critical behaviors of your functions and classes, 
 but don’t aim for full coverage in early projects unless you have a specific reason to do so.
 """
+
+# class Employee:
+#     """Represent an employee."""
+
+#     def __init__(self, first_name, last_name, annual_salary):
+#         self.first_name = first_name
+#         self.last_name = last_name
+#         self.annual_salary = annual_salary
+
+#     def give_raise(self, amount=5000):
+#         """Increase the employee's annual salary."""
+#         self.annual_salary += amount
